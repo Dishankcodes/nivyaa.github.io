@@ -1,6 +1,4 @@
-# nivyaa.github.io
-<html> 
-  
+<html>   
 <head>
   <style>
 :root {
